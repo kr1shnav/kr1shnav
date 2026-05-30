@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/kr1shnav/kr1shnav/blob/0f75e186e6bfc27ba9d03c0ac65bf948b166807b/9cd4d78c44efd264ad81488d6c22020d-removebg-preview.png)
 
 <!--
 **kr1shnav/kr1shnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
