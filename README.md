@@ -1,17 +1,4 @@
-```
-hi
-i'm krishnav
-
-i like:
-  - llm's & rag
-  - backend & system design
-  - emmeded systems
-  - cloud & distributed Systems
-  - larping
-
-i dislike:
-  - larpers
-⠀⠀⠀⠀
+```⠀⠀⠀⠀
 ⡿⣡⣿⣿⡟⡼⡁⠁⣰⠂⡾⠉⢨⣿⠃⣿⡿⠍⣾⣟⢤⣿⢇⣿⢇⣿⣿⢿
 ⣱⣿⣿⡟⡐⣰⣧⡷⣿⣴⣧⣤⣼⣯⢸⡿⠁⣰⠟⢀⣼⠏⣲⠏⢸⣿⡟⣿
 ⣿⣿⡟⠁⠄⠟⣁⠄⢡⣿⣿⣿⣿⣿⣿⣦⣼⢟⢀⡼⠃⡹⠃⡀⢸⡿⢸⣿
